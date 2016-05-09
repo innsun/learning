@@ -9,4 +9,5 @@
 - 20160410_neural_net_code：神经网络代码
 - 20160417_softmax_doc：softmax推导文档
 - 20160424_softmax_neural_net_code：softmax神经网络推导文档及实现代码
-- 20160502_softmax+neural_net_code：ltDLA1项目中softmax与两层神经网络实现代码
+- 20160502_softmax+neural_net_code：ltDLA1项目中softmax与neural_net实现代码
+- 20160509_knn+svm_code：ltDLA1项目中knn与svm实现代码
