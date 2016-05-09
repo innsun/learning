@@ -1,0 +1,9 @@
+Difference between your scores and correct scores:
+3.68027209324e-08
+Difference between your loss and correct loss:
+1.79412040779e-13
+W1 max relative error: 3.561318e-09
+W2 max relative error: 3.440708e-09
+b2 max relative error: 4.447687e-11
+b1 max relative error: 2.738421e-09
+Final training loss:  0.0170580075641

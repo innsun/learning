@@ -2,10 +2,10 @@
 
 <table style="border-collapse:collapse;font-size:12px">
   <tr style="background-color:#eee">
-    <th style="border:none;width:130">学习阶段</th>
+    <th style="border:none">学习阶段</th>
     <th style="border:none;width:30">日期</th>
     <th style="border:none">描述</th>
-    <th style="border:none;width:180">课程材料</th>
+    <th style="border:none">课程材料</th>
   </tr>
   <tr>
     <td style="border:none">环境配置</td>
@@ -15,7 +15,7 @@
       <a href="https://www.continuum.io/downloads">基础环境python2.7下载</a><br/>
       <a href="https://www.jetbrains.com/pycharm/download/#section=windows">开发环境pycharm5.04下载</a><br/>
       <a href="http://www.zhihu.com/question/27615938">winpython,anaconda哪个更好？</a><br/>
-      <a href="/python/python环境配置_20160316.doc">参考文件路径</a>
+      <a href="python/python环境配置_20160316.doc">参考文件路径</a>
     </td>
   </tr>
   <tr>
@@ -42,7 +42,8 @@
     <td style="border:none"></td>
     <td style="border:none">
       学习<a href="http://product.dangdang.com/23760742.html">概率论与数理统计</a>第一、二章知识<br/>
-      用第一章知识点（包括，不限于：基本事件，样本空间，独立事件，贝叶斯公式等）解释贝叶斯文本分类器
+      用第一章知识点来解释贝叶斯文本分类器<br/>
+      知识点包括，但不限于：基本事件，样本空间，独立事件，贝叶斯公式等
     </td>
     <td style="border:none"></td>
   </tr>
@@ -71,8 +72,9 @@
     <td style="border:none">高斯判别模型理解文档</td>
     <td style="border:none"></td>
     <td style="border:none">
-      学习<a href="http://product.dangdang.com/23760742.html">概率论与数理统计</a>第三、四章知识
-      用第四章知识点（包括，不限于：协方差矩阵，n维正态随机变量的概率密度等）来解释高斯判别模型
+      学习<a href="http://product.dangdang.com/23760742.html">概率论与数理统计</a>第三、四章知识<br/>
+      用第四章知识点来解释高斯判别模型<br/>
+      知识点包括，但不限于：协方差矩阵，n维正态随机变量的概率密度等
     </td>
     <td style="border:none"></td>
   </tr>
@@ -102,7 +104,7 @@
     <td style="border:none"></td>
     <td style="border:none">
       学习概率论与数理统计第七章分布函数的参数估计方法<br/>
-      学习softmax归回，理解softmax回归的应用背景，推导softmax的代价函数，并分别对x和theta求导
+      学习softmax归回，推导softmax的代价函数，并分别对x和theta求导<br/>
     </td>
     <td style="border:none"></td>
   </tr>
@@ -111,7 +113,7 @@
     <td style="border:none"></td>
     <td style="border:none">
       完善神经网路手写数字识别<br/>
-      神经网络输出层使用softmax回归实现
+      神经网络输出层使用softmax回归实现<br/>
     </td>
     <td style="border:none"></td>
   </tr>
@@ -119,11 +121,11 @@
     <td style="border:none">softmax和两层神经网络</td>
     <td style="border:none"></td>
     <td style="border:none">
-      实现<a href="project/ltDLA1/cs231n/classifiers">classifiers</a>文件夹下softmax.py，neural_net.py的todo部分的代码
+      实现<a href="project/ltDLA1/cs231n/classifiers">classifiers</a>文件夹下softmax.py，neural_net.py的todo部分的代码<br/>
     </td>
     <td style="border:none">
       <a href="project/ltDLA1">工程</a><br/>
-      <a href="data_set/cifar-10-batches-py">数据集</a>
+      <a href="data_set/cifar-10-batches-py">数据集</a><br/>
     </td>
   </tr>
   <tr>
@@ -148,8 +150,8 @@
     <td style="border:none">KNN和SVN作业</td>
     <td style="border:none"></td>
     <td style="border:none">
-      实现<a href="project/ltDLA1">工程</a>中knn.py，svm.py的todo部分的代码
-      实现<a href="project/ltDLA1/cs231n/classifiers">classifiers</a>文件夹下linear_svm.py，k_nearest_neighbor.py的todo部分的代码
+      实现<a href="project/ltDLA1">工程</a>中knn.py，svm.py的todo部分的代码<br/>
+      实现<a href="project/ltDLA1/cs231n/classifiers">classifiers</a>文件夹下linear_svm.py，k_nearest_neighbor.py的todo部分的代码<br/>
     </td>
     <td style="border:none">
       <a href="data_set/cifar-10-batches-py">数据集</a><br/>

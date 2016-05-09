@@ -1,0 +1,6 @@
+代码规范上周六一起过了一下，达成一致（主要参考google Python风格规范）。
+神经网络因为数据集问题大家结果都是100%。
+1、尽量向量化
+2、规划代码流程，比如：加载数据、训练模型、预测结果、展示结果。
+3、代码参照google Python风格规范
+http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules/

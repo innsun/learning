@@ -1,0 +1,13 @@
+vectorized loss: 2.331172e+00 computed in 0.120000s
+numerical: -1.408041 analytic: -1.408041, relative error: 1.442840e-08
+numerical: 0.732723 analytic: 0.732723, relative error: 7.473774e-08
+numerical: -1.833428 analytic: -1.833428, relative error: 2.956462e-08
+numerical: 4.650391 analytic: 4.650391, relative error: 1.673699e-08
+numerical: -0.747886 analytic: -0.747886, relative error: 9.140852e-08
+numerical: -0.799269 analytic: -0.799270, relative error: 4.184639e-08
+numerical: -1.956801 analytic: -1.956801, relative error: 5.377440e-09
+numerical: 0.398212 analytic: 0.398212, relative error: 8.416403e-08
+numerical: 0.953289 analytic: 0.953289, relative error: 5.398767e-09
+numerical: 0.797974 analytic: 0.797974, relative error: 9.815251e-09
+loss: 2.331172
+sanity check: 2.302585
