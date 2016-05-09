@@ -3,7 +3,7 @@
 <table style="border-collapse:collapse;font-size:12px">
   <tr style="background-color:#eee">
     <th style="border:none">学习阶段</th>
-    <th style="border:none;width:30">日期</th>
+    <th style="border:none">日期</th>
     <th style="border:none">描述</th>
     <th style="border:none">课程材料</th>
   </tr>
@@ -14,8 +14,7 @@
     <td style="border:none">
       <a href="https://www.continuum.io/downloads">基础环境python2.7下载</a><br/>
       <a href="https://www.jetbrains.com/pycharm/download/#section=windows">开发环境pycharm5.04下载</a><br/>
-      <a href="http://www.zhihu.com/question/27615938">winpython,anaconda哪个更好？</a><br/>
-      <a href="python/python环境配置_20160316.doc">参考文件路径</a>
+      <a href="python/python环境配置_20160316.doc">参考文件</a>
     </td>
   </tr>
   <tr>
