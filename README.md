@@ -12,8 +12,8 @@
     <td></td>
     <td>配置好python开发环境，熟悉pyCharm的使用</td>
     <td>
-      <a href="https://www.continuum.io/downloads">基础环境python2.7下载</a><br/>
-      <a href="https://www.jetbrains.com/pycharm/download/#section=windows">开发环境pycharm5.04下载</a><br/>
+      <a href="https://www.continuum.io/downloads">基础环境python2.7</a><br/>
+      <a href="https://www.jetbrains.com/pycharm/download/#section=windows">开发环境pycharm5.04</a><br/>
       <a href="python/python环境配置_20160316.doc">参考文件</a><br/>
     </td>
   </tr>
